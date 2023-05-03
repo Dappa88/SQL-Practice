@@ -1,12 +1,12 @@
 from fastapi import FastAPI
 from . import dotenv
-from .Introductory import questions
+from .Intermediate import questions
 
 
 
 
 app = FastAPI()
 
-questions.Query.execute(questions.query19)
+# questions.Query.execute(questions.query20)
 
 
