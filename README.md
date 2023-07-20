@@ -33,7 +33,7 @@ To run the SQL problem-solving scripts, follow these steps:
 2. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/sql-problem-solving.git
+git clone https://github.com/Dappa88/SQL-Practice.git
 ```
 
 3. Install the required Python packages using `pip`:
@@ -76,7 +76,7 @@ The repository is organized as follows:
 
 - `db_connection.py`: Python script containing the database connection settings.
 - `sql_problem_solving.py`: Python script to execute the SQL queries and display the results.
-- `problem1.sql`, `problem2.sql`, ...: SQL script files containing solutions to the textbook problems.
+- `questions.py`, ...: SQL script files containing solutions to the textbook problems.
 
 ## Contributing
 
