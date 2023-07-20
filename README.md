@@ -1,6 +1,6 @@
 # SQL Problem-Solving with PostgreSQL and Python
 
-![SQL Problem-Solving](https://www.example.com/sql-problem-solving.png)
+![SQL Problem-Solving](https://th.bing.com/th/id/OIP.p31dmUrCDKxDiWpXaAzcAgHaD4?pid=ImgDet&rs=1)
 
 Welcome to the SQL Problem-Solving repository! This project showcases my solutions to various SQL questions from a textbook, implemented using PostgreSQL and Python. Through this repository, I demonstrate my proficiency in SQL, as well as my ability to connect to a PostgreSQL database using Python to solve complex problems.
 
